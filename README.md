@@ -15,6 +15,4 @@
 
 🖥️ The program runs until the user presses the 'q' key, allowing for continuous real-time face distance estimation. Upon exiting, the video capture is released, and the windows are closed.
 
-🌐🔗 For more comprehensive information and to access the complete code, please visit the GitHub repository: Link to the Repository
-
 💡✨ Utilize this code to accurately estimate the distance between a camera and a person's face. It opens up possibilities for various applications, including human-computer interaction and augmented reality experiences.
